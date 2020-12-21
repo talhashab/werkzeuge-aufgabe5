@@ -1,0 +1,1 @@
+Man gibt die Zeile "javac HelloWorld.java" ein. Daraufhin sollte das Programm kompilliert sein und sollte über den Command java startbar sein.
